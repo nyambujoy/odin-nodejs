@@ -1,0 +1,2 @@
+//server
+console.log('hello')
